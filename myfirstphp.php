@@ -10,7 +10,7 @@
   <body>
 <h1>My first PHP page</h1>    
 
-# use <p> to separate text in php
+<p><?php use <p> to separate text in php</p>
 
 <p><?php echo "Hello PHP World!";?></p>
 
