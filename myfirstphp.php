@@ -14,7 +14,7 @@
     // echo "use paragraph to separate text in php. This ia a comment" 
 ?>
 
-<?php <p>echo "Hello PHP World!";</p> ?>
+<?php echo "<p>Hello PHP World!</p>"; ?>
 
 <?php
 $var = "PHP";
