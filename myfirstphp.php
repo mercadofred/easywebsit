@@ -10,7 +10,9 @@
   <body>
 <h1>My first PHP page</h1>    
 
-<p><?php // echo "use paragraph to separate text in php" ?></p>
+<p><?php 
+
+// echo "use paragraph to separate text in php" ?></p>
 
 <p><?php echo "Hello PHP World!";?></p>
 
