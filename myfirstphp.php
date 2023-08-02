@@ -4,7 +4,7 @@
 
 <?php
 $var = "PHPPPPPP";
-echo "My first PHP script!";
+echo "My first $var script!";
 ?>
 
 </body>
