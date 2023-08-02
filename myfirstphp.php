@@ -7,7 +7,7 @@
   </head>
 
 <?php
-$var = "PHPPPPPPP";
+$var = "PHPPPPPPpP";
 echo "My first $var script!";
 ?>
 
