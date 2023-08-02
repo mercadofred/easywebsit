@@ -11,7 +11,7 @@
 <h1>My first PHP page</h1>    
 
 <?php 
-    // <p>echo "use paragraph to separate text in php. This ia a comment" </p>
+    // echo "use paragraph to separate text in php. This ia a comment" 
 ?>
 
 <p><?php echo "Hello PHP World!";?></p>
