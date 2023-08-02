@@ -10,7 +10,7 @@
   <body>
 <h1>My first PHP page</h1>    
 
-<?php <p>echo "Hello PHP World!";</p> ?>
+<p><?php echo "Hello PHP World!";?></p>
 
 <?php
 $var = "PHP";
