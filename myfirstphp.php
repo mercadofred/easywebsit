@@ -11,6 +11,7 @@
 <h1>My first PHP page</h1>    
 
 <?php
+echo "Hello PHP World!";
 $var = "PHP";
 echo "This is my first $var script!";
 ?>
