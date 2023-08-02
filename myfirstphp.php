@@ -3,7 +3,7 @@
 <body>
 
 <?php
-$var = "PHP";
+$var = "PHPPPPPP";
 echo "My first PHP script!";
 ?>
 
